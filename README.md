@@ -1,6 +1,3 @@
-Perfect 👍
-Below is a **clean, professional `README.md`** for your **CLI-based SNSI Soil Nutrition Advisory Project**.
-You can **copy–paste this directly** into `README.md`.
 
 ---
 
